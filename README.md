@@ -1,6 +1,6 @@
 # pagination_cubit
 
-A new Flutter project.
+Proyecto para aprender base de uso de cubit para el manejo de estados
 
 ## Getting Started
 
